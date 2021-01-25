@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#128C7E</item>
+        <item name="colorPrimaryDark">#075E54</item>
+        <item name="colorAccent">#FFFFFF</item>
+    </style>
+    
+    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog"></style>
+
+</resources>
